@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>OnAirMic</title>
+    <link>https://onairmic.com</link>
+    <description>Updates for OnAirMic</description>
+    <language>en</language>
+    <item>
+      <title>OnAirMic 1.0.0 (10)</title>
+      <pubDate>Fri, 16 Oct 2026 11:08:29 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <link>https://onairmic.com</link>
+      <description>&lt;p&gt;OnAirMic now keeps itself up to date.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Automatic updates: OnAirMic checks for a new version once a day and can download and install it for you.&lt;/li&gt;&lt;li&gt;Check for Updates… in the OnAirMic menu, in Settings › Updates, and by right-clicking the menu bar item.&lt;/li&gt;&lt;li&gt;Settings › Updates lets you turn automatic checks and automatic installs on or off.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/xploredatum/onairmic-releases/releases/download/v1.0.0-10/OnAirMic-1.0.0-10.dmg" length="9717177" type="application/octet-stream" sparkle:edSignature="xBc5y74jAIZwEUH7JM4lpRZkwhIqzdareTTsKRTCzYaCjalb5HtB1mWujU6xB68snqvdbAbGRgNp0/qFOTguAw==" />
+    </item>
+  </channel>
+</rss>
