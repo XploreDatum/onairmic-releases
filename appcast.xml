@@ -6,6 +6,17 @@
     <description>Updates for OnAirMic</description>
     <language>en</language>
     <item>
+      <title>OnAirMic 1.0.0 (13)</title>
+      <pubDate>Fri, 16 Oct 2026 14:31:29 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <link>https://onairmic.com</link>
+      <description>&lt;ul&gt;&lt;li&gt;The main window now uses the standard macOS window background, tinted by your wallpaper (System Settings › Appearance › Allow wallpaper tinting in windows), so other windows no longer show through it.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/xploredatum/onairmic-releases/releases/download/v1.0.0-13/OnAirMic-1.0.0-13.dmg" length="9741141" type="application/octet-stream" sparkle:edSignature="KvT6otb31lw/PjGdSEUM7SZsPlWS4rU5dVC+vt1afuQAPvyZhPkW0QYRHzdF+N0b+frHvUSrbnsYGxiS+VWTDQ==" />
+    </item>
+    <item>
       <title>OnAirMic 1.0.0 (12)</title>
       <pubDate>Fri, 16 Oct 2026 14:25:45 +0000</pubDate>
       <sparkle:version>12</sparkle:version>
