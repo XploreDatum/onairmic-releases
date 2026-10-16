@@ -6,6 +6,17 @@
     <description>Updates for OnAirMic</description>
     <language>en</language>
     <item>
+      <title>OnAirMic 1.0.3 (16)</title>
+      <pubDate>Fri, 16 Oct 2026 15:35:58 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <link>https://onairmic.com</link>
+      <description>&lt;ul&gt;&lt;li&gt;The window keeps its wallpaper tint when it isn't the focused window, instead of turning flat grey.&lt;/li&gt;&lt;li&gt;Cards and the sidebar have a frosted white fill in light mode, so they stay crisp whether or not the window is focused.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/xploredatum/onairmic-releases/releases/download/v1.0.3-16/OnAirMic-1.0.3-16.dmg" length="9755964" type="application/octet-stream" sparkle:edSignature="Xt1C+CDkETRg0HVGhtWZCF6oA759onQgfBY9p/gQ7ex258L6/49lkMuMmRSS2q09hm+1GxCGCjWzQGhwxiZHAw==" />
+    </item>
+    <item>
       <title>OnAirMic 1.0.2 (15)</title>
       <pubDate>Fri, 16 Oct 2026 14:48:06 +0000</pubDate>
       <sparkle:version>15</sparkle:version>
