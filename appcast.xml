@@ -6,6 +6,17 @@
     <description>Updates for OnAirMic</description>
     <language>en</language>
     <item>
+      <title>OnAirMic 1.0.1 (14)</title>
+      <pubDate>Fri, 16 Oct 2026 14:37:08 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <link>https://onairmic.com</link>
+      <description>&lt;ul&gt;&lt;li&gt;The main window background now takes its colour from your wallpaper, the way Finder does (System Settings › Appearance › Allow wallpaper tinting in windows). Other windows never show through it.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/xploredatum/onairmic-releases/releases/download/v1.0.1-14/OnAirMic-1.0.1-14.dmg" length="9742731" type="application/octet-stream" sparkle:edSignature="4gFym0iT1B1Z71dZBRXmVv2F+5B+odQ4H4jXsIwg+/i/iQ7M+3ZSjCGaALQBAJy2RHv7ZKgWk0T0XVYHxn6mCw==" />
+    </item>
+    <item>
       <title>OnAirMic 1.0.0 (13)</title>
       <pubDate>Fri, 16 Oct 2026 14:31:29 +0000</pubDate>
       <sparkle:version>13</sparkle:version>
